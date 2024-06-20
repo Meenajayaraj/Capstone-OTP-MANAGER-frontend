@@ -10,7 +10,7 @@ const headers = () => {
       <Navbar bg="dark" variant="dark">
         <Container>
           <NavLink to="/" className=" text-light text-decoration-none">
-            Mycloud
+            Capstone
           </NavLink>
           <Nav className="">
             <NavLink
