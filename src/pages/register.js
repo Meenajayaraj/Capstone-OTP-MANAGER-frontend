@@ -55,8 +55,7 @@ const Register = () => {
           <div className="form_heading">
             <h1>Sign Up</h1>
             <p style={{ textAlign: "center" }}>
-              We are glad that you will be using my Project to manage your
-              tasks! We hope that you will get like it.
+              Iam glad that you are using my Project !  
             </p>
           </div>
           <form>
