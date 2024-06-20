@@ -70,4 +70,4 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white)
 
 # Demo 
-CLick Here 👉🏻 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://otp-manager-frontend.netlify.app/)
+CLick Here  for My Capstone Project Demo👉🏻 [![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://otp-manager-frontend.netlify.app/)
