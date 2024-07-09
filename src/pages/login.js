@@ -65,8 +65,12 @@ const Login = () => {
                 ""
               )}
             </button>
-            <p>
-              Don't have and account <NavLink to="/register">Sign up</NavLink>{" "}
+            <p style={{ color: "black", fontWeight: "bold" }}>
+              Don't have and account <NavLink to="/register"> Sign up</NavLink>{" "}
+            </p>
+            <p style={{ color: "black", fontWeight: "bold" }}>
+              Forgot Password{" "}
+              <NavLink to="/password-reset"> Click Here to Reset</NavLink>{" "}
             </p>
           </form>
         </div>
