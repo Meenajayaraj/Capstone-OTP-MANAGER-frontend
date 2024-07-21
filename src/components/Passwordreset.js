@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { ToastContainer, toast } from "react-toastify";
 
-const passwordreset = () => {
+const Passwordreset = () => {
   const [email, setEmail] = useState("");
 
   const [message, setMessage] = useState("");
@@ -32,7 +32,7 @@ const passwordreset = () => {
 
       const data = await res.json();
 
-      if (data.status == 201) {
+      if (data.status === 201) {
         setEmail("");
         setMessage(true);
       } else {
@@ -82,4 +82,4 @@ const passwordreset = () => {
   );
 };
 
-export default passwordreset;
+export default Passwordreset;
